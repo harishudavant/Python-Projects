@@ -7,7 +7,7 @@ class Login_System:
         self.root.title("Login System")
         self.root.geometry("1350x700+0+0")
 
-        #All Images
+        #All Image
     
 
         self.bg=ImageTk.PhotoImage(file="C:/Users/harish/Downloads/Python Projects/login system in python using T-Kinter/images/bg4.jpg")
